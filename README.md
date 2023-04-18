@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bahram663
-- 👀 I’m interested in Devops/SRE
-- 🌱 I’m currently learning Kubernetes, Docker, Ansible, Go
+- 👀 I’m working in Devops/SRE
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me bahram.nabiyev@outlook.com
 
